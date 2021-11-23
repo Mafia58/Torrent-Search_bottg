@@ -1,6 +1,6 @@
 {
     "name": "Torrent Search Bot by @AbirHasan2005",
-    "description": "A Simple Telegram Inline Torrent Search Bot in Pyrogram by @AbirHasan2005",
+    "description": "A Simple Telegram Inline Torrent Search Bot in Pyrogram by @akalankanime",
     "keywords": [
         "telegram",
         "inline",
@@ -8,15 +8,15 @@
         "search",
         "bot"
     ],
-    "repository": "https://github.com/AbirHasan2005/Torrent-Search-Bot",
-    "website": "https://telegram.dog/AbirHasan2005",
-    "success_url": "https://github.com/AbirHasan2005/Torrent-Search-Bot",
+    "repository": "https://github.com/Mafia58/Torrent-Search_bottg",
+    "website": "https://t.me/DFX_BOTS",
+    "success_url": "https://github.com/Mafia58/Torrent-Search_bottg",
     "env": {
         "API_ID": {
-            "description": "Get this value from my.telegram.org or @TeleORG_Bot"
+            "description": "Get this value from my.telegram.org"
         },
         "API_HASH": {
-            "description": "Get this value from my.telegram.org or @TeleORG_Bot"
+            "description": "Get this value from my.telegram.org"
         },
         "SESSION_NAME": {
             "description": "Any Bot Session Name. You can keep default!",
@@ -26,7 +26,7 @@
             "description": "Your Telegram Bot Token by @BotFather"
         },
         "MAX_INLINE_RESULTS": {
-            "description": "Max Telegram Inline Search Result. Keep Default!",
+            "description": "Keep Default!",
             "value": "50",
             "required": false
         }
