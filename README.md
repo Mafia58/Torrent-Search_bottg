@@ -10,8 +10,8 @@ Click Below Button to Deploy to Heroku:
 
 ### Deploy Locally
 ```shell
-git clone https://github.com/AbirHasan2005/Torrent-Search-Bot
-cd Torrent-Search-Bot
+git clone https://github.com/Mafia58/Torrent-Search_bottg
+cd Torrent-Search_bottg
 pip3 install -r requirements.txt
 python3 main.py
 ```
